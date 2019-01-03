@@ -1,0 +1,25 @@
+footer{
+    color: green;
+}
+
+header a {
+    text-decoration: none;
+}
+
+table td{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.active{
+    color: #00D86B;
+    text-decoration: underline;
+}
+
+.success{
+    color: green;
+}
+
+.error{
+    color: red;
+}

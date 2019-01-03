@@ -1,0 +1,12 @@
+footer{
+    color: red;
+}
+
+header a {
+    text-decoration: none;
+}
+
+.active{
+    color: #00D86B;
+    text-decoration: underline;
+}
